@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class InputActivity extends AppCompatActivity {
+    public static final String NAME = "name";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
