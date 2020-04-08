@@ -8,4 +8,7 @@
     <color name="whiteTwo">#f2f2f2</color>
     <color name="whiteThree">#f8f8f8</color>
     <color name="sunflower">#ffc50d</color>
+    <color name="coolGrey">#bababb</color>
+    <color name="brownGrey">#999</color>
+    <color name="purpleBlue">#494dea</color>
 </resources>

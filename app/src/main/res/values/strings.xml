@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AKB-Pretest</string>
     <string name="welcome">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="code">Kode Keluarga</string>
 </resources>

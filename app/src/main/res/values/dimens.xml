@@ -1,3 +1,4 @@
 <resources>
     <dimen name="headerOne">28dp</dimen>
+    <dimen name="headerTwo">20dp</dimen>
 </resources>
