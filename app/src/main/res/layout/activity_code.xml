@@ -25,7 +25,7 @@
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="@string/code" />
+            android:text="@string/code" />
 
         <TextView
             android:id="@+id/textView3"
@@ -36,7 +36,7 @@
             android:textSize="@dimen/headerTwo"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView2"
-            tools:text="Ketikan Kode keluarga yang Ayah Bunda miliki disini" />
+            android:text="Ketikan Kode keluarga yang Ayah Bunda miliki disini" />
 
         <EditText
             android:id="@+id/editText3"
@@ -90,10 +90,10 @@
             android:textColor="@color/brownGrey"
             android:textAlignment="center"
             android:layout_marginVertical="32dp"
-            tools:text="Belum punya kode keluarga?" />
+            android:text="Belum punya kode keluarga?" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buyCode"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/nunito_bold"
